@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="170" started-at="2020-05-26T09:16:33Z" finished-at="2020-05-26T09:16:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="170" started-at="2020-05-26T09:16:33Z" finished-at="2020-05-26T09:16:33Z">
+      <class name="testcases.ApplicationTest">
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:testcases.ApplicationTest@2f32ff]" name="BeforeTest" is-config="true" duration-ms="25" started-at="2020-05-26T10:16:33Z" finished-at="2020-05-26T10:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.ApplicationTest@2f32ff]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-05-26T10:16:33Z" finished-at="2020-05-26T10:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="doLogin()[pri:1, instance:testcases.ApplicationTest@2f32ff]" name="doLogin" duration-ms="25" started-at="2020-05-26T10:16:33Z" finished-at="2020-05-26T10:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.ApplicationTest@2f32ff]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-05-26T10:16:33Z" finished-at="2020-05-26T10:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.ApplicationTest@2f32ff]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-05-26T10:16:33Z" finished-at="2020-05-26T10:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="DoPasswordChange()[pri:2, instance:testcases.ApplicationTest@2f32ff]" name="DoPasswordChange" duration-ms="3" started-at="2020-05-26T10:16:33Z" finished-at="2020-05-26T10:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DoPasswordChange -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.ApplicationTest@2f32ff]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-05-26T10:16:33Z" finished-at="2020-05-26T10:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.ApplicationTest@2f32ff]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-05-26T10:16:33Z" finished-at="2020-05-26T10:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="EnterUser()[pri:3, instance:testcases.ApplicationTest@2f32ff]" name="EnterUser" duration-ms="3" started-at="2020-05-26T10:16:33Z" finished-at="2020-05-26T10:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterUser -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.ApplicationTest@2f32ff]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-05-26T10:16:33Z" finished-at="2020-05-26T10:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.ApplicationTest@2f32ff]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-05-26T10:16:33Z" finished-at="2020-05-26T10:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Logout()[pri:4, instance:testcases.ApplicationTest@2f32ff]" name="Logout" duration-ms="5" started-at="2020-05-26T10:16:33Z" finished-at="2020-05-26T10:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.ApplicationTest@2f32ff]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-05-26T10:16:33Z" finished-at="2020-05-26T10:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.ApplicationTest@2f32ff]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-05-26T10:16:33Z" finished-at="2020-05-26T10:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="EnterUrl()[pri:5, instance:testcases.ApplicationTest@2f32ff]" name="EnterUrl" duration-ms="4" started-at="2020-05-26T10:16:33Z" finished-at="2020-05-26T10:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterUrl -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:testcases.ApplicationTest@2f32ff]" name="AfterTest" is-config="true" duration-ms="8" started-at="2020-05-26T10:16:33Z" finished-at="2020-05-26T10:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.ApplicationTest@2f32ff]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-05-26T10:16:33Z" finished-at="2020-05-26T10:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testcases.ApplicationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
